@@ -269,7 +269,7 @@ Each entry in this gallery features:
 
 ### Numiqo
 
-![Numiqo](img/numiqo.png)
+![Numiqo](/img/nuqimo.png)
 
 **🔗 [Explore Numiqo](https://numiqo.com/)**
 
