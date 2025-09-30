@@ -187,7 +187,7 @@ Each entry in this gallery features:
 
 ![KDE Explorer](img/kde-explorer.png)
 
-**🔗 [Explore KDE Explorer](https://mathigon.org/course/statistics/kde)**
+**🔗 [Explore KDE Explorer](https://mathisonian.github.io/kde/)**
 
 **Why you'll love it:** Master the art and science of Kernel Density Estimation! This interactive tool shows you how bandwidth choices shape your data visualization and why KDE is so powerful for understanding distributions.
 
