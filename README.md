@@ -197,7 +197,7 @@ Each entry in this gallery features:
 
 ![K-Means](img/kmeans.png)
 
-**🔗 [Explore K-Means](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)**
+**🔗 [Explore K-Means](https://kkevsterrr.github.io/K-Means/)**
 
 **Why you'll love it:** Take control of the clustering process! Place points manually, adjust cluster counts, and watch k-means algorithms converge step by step. You'll never see clustering the same way again.
 
