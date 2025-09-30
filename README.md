@@ -251,7 +251,7 @@ Each entry in this gallery features:
 
 ![Simon Ward-Jones](img/simon-ward-jones.png)
 
-**🔗 [Explore Simon Ward-Jones](https://simonwardjones.com/)**
+**🔗 [Explore Simon Ward-Jones](https://www.simonwardjones.co.uk)**
 
 **Why you'll love it:** Fresh perspectives on ML and AI! Simon's blog combines approachable visuals with practical tutorials, covering everything from cutting-edge research to hands-on implementation tips.
 
