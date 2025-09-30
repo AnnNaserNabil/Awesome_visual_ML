@@ -137,7 +137,7 @@ Each entry in this gallery features:
 
 ![R2D3](img/r2d3.png)
 
-**🔗 [Explore R2D3](https://www.r2d3.us/visual-intro-to-machine-learning-part-1/)**
+**🔗 [Explore R2D3](https://www.r2d3.us/)**
 
 **Why you'll love it:** Experience ML through the art of visual storytelling! This scroll-based masterpiece introduces decision trees and feature importance with breathtaking animations. It's how ML education should always be.
 
