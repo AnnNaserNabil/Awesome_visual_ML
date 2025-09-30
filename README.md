@@ -207,7 +207,7 @@ Each entry in this gallery features:
 
 ![Dimensionality Reduction](img/dimensionality-reduction.png)
 
-**🔗 [Explore Dimensionality Reduction](https://pair-code.github.io/understanding-umap/)**
+**🔗 [Explore Dimensionality Reduction](https://dimensionality-reduction-293e465c2a3443e8941b016d.vercel.app/)**
 
 **Why you'll love it:** Witness the magic of dimensionality reduction! Compare PCA, t-SNE, and UMAP side by side as they transform high-dimensional data into beautiful 2D visualizations. Understand the trade-offs and strengths of each method.
 
