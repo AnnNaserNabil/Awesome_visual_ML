@@ -41,7 +41,7 @@ Each entry in this gallery features:
 
 ![Keras-JS](img/keras-js.png)
 
-**🔗 [Explore Keras-JS](https://transcranial.github.io/keras-js-demos/)**
+**🔗 [Explore Keras-JS](https://transcranial.github.io/keras-js/#/)**
 
 **Why you'll love it:** Experience the magic of deep learning right in your browser! Watch pre-trained neural networks recognize digits, detect emotions, and classify images in real-time using WebGL acceleration. It's ML inference made visible and interactive.
 
